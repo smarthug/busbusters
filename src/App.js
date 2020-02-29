@@ -5,7 +5,10 @@ import Bus from './bus'
 function App() {
   return (
     <div className="App">
-      <Bus />
+      <div className="App-header">
+
+        <Bus />
+      </div>
     </div>
   );
 }
