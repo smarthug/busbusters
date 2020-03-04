@@ -1,5 +1,5 @@
 # BusBusters
-minimal bus route bookmark manager
+minimal bus route bookmark manager webapp for mobile 
 
 ## Motivation 
 When I go to work , I had to tab at least 4 times to get the bus info. Now it only needs two tabs.
@@ -9,6 +9,7 @@ When I go to work , I had to tab at least 4 times to get the bus info. Now it on
 there is two way to use it. 
 1. Add route Address one by one
 2. Upload yourbusroute.json
+3. Add it to your home screen. (webapp)
 
 ![alt text](./howto.gif.gif)
 
