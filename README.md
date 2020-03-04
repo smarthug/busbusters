@@ -10,6 +10,7 @@ there is two way to use it.
 1. Add route Address one by one
 2. Upload yourbusroute.json
 
+![alt text](./howto.gif.gif)
 
 ## JSON Schema
 ```js
